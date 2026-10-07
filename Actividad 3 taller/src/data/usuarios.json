@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "nombre": "Algo",
+        "apellido": "Algo",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Juanito",
+        "apellido": "Peres",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 4,
+        "nombre": "Mario",
+        "apellido": "Campa",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 5,
+        "nombre": "Pedro",
+        "apellido": "Juarez",
+        "edad": 78,
+        "correo": "p@gmail.com",
+        "contrasena": 456,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 6,
+        "nombre": "Pedro",
+        "apellido": "Juarez",
+        "edad": 78,
+        "correo": "p@gmail.com",
+        "contrasena": 456,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    }
+]
